@@ -1,0 +1,9 @@
+#Inclua <Tipo/Texto.ctec>
+
+Inteiro Início() {
+    Caractere *saudação = "Olá mundo!";
+    imprima_formatado("%s", saudação);
+    Retorne 0;
+}
+
+// Deus seja louvado!
